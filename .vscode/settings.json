@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./Lib/site-packages",
+        "./Arduino"
+    ],
+    "git.ignoreLimitWarning": true
+}
